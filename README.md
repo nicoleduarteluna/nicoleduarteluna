@@ -11,5 +11,5 @@ I'm Nicole Luna, Software Developer at @totvs with about 3 years of experience, 
 ⚡ Technologies
 These are some of the technologies and tools that I work with:
 
-
-	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+	
